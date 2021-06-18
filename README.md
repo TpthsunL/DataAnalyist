@@ -25,3 +25,6 @@ https://www.youtube.com/channel/UCE-qis0KL5nAcKCzIkGJOSA
 ### 좋은 데이터 뉴스와 정보
 데이터 뉴스 구독레터 디귿  이라는 서비스가 있길래 공유드립니다. 매주 화요일마다 데이터 관련 정보를 보내주는거 같은데 아직 베타 테스트를 하는 것 같은데 혹시나 관심이 있으신 분들은 한 번 구독해보세요 :미소짓는_얼굴:
 https://page.stibee.com/subscriptions/118228
+
+### 포토폴리오 잘 써진 예시
+https://wayhome25.github.io/
