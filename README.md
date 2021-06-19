@@ -28,3 +28,6 @@ https://page.stibee.com/subscriptions/118228
 
 ### 포토폴리오 잘 써진 예시
 https://wayhome25.github.io/
+
+### 데이터분석 및 깃허브
+https://github.com/corazzon/cracking-the-pandas-cheat-sheet
